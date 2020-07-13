@@ -1,4 +1,4 @@
-# PoShLog.Sinks.Exceptionless
+# PoShLog.Sinks.Seq
 
 [![psgallery](https://img.shields.io/powershellgallery/v/poshlog.sinks.seq.svg)](https://www.powershellgallery.com/packages/PoShLog.Sinks.Seq) [![PowerShell Gallery](https://img.shields.io/powershellgallery/p/poshlog.sinks.seq?color=blue)](https://www.powershellgallery.com/packages/PoShLog.Sinks.Seq) [![psgallery](https://img.shields.io/powershellgallery/dt/PoShLog.Sinks.Seq.svg)](https://www.powershellgallery.com/packages/PoShLog.Sinks.Exceptionless) [![Discord](https://img.shields.io/discord/693754316305072199?color=orange&label=discord)](https://discord.gg/gGFtbf)
 
